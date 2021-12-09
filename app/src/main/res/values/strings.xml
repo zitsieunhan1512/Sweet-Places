@@ -1,8 +1,7 @@
 <resources>
     <string name="app_name">Sweet Places</string>
 <!--    AIzaSyA-Ew-EcB5r16uPcPLsva01uj3yrvPeJTw-->
-    <string name="google_maps_api_key">AIzaSyAu82hx96M4TJ-2O9y6FQUy-Yf0QzTQtjQ</string>
-    <string name="google_maps_api_key2">AIzaSyBr7WYgCTw8Ql721pd06nHYExexDQOjmQo</string>
+    <string name="google_maps_api_key">AIzaSyBhBL-aUyL8zjWDOypUBOYWTcxPM6oQy2s</string>
 
     <string name="edit_text_hint_title">Title</string>
     <string name="edit_text_hint_description">Description</string>
